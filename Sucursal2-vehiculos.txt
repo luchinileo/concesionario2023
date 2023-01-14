@@ -1,0 +1,4 @@
+Archivo ---------------- 
+Vehiculo => Categoría :Auto - Marca: Toyota - Modelo: Etios 
+Vehiculo => Categoría :Auto - Marca: Fiat - Modelo: Cronos 
+---------------- Archivo.

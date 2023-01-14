@@ -1,0 +1,8 @@
+Archivo ---------------- 
+Vehiculo => Categoría :Camioneta - Marca: Nissan - Modelo: Frontier 
+Vehiculo => Categoría :Camioneta - Marca: Toyota - Modelo: Hilux 
+Vehiculo => Categoría :Auto - Marca: Peugeot - Modelo: 3008 
+Vehiculo => Categoría :Auto - Marca: Peugeot - Modelo: 208 
+Vehiculo => Categoría :Auto - Marca: Toyota - Modelo: Corolla 
+Vehiculo => Categoría :Camioneta - Marca: Toyota - Modelo: Hilux 
+---------------- Archivo.

@@ -1,0 +1,5 @@
+{
+	"nombre": "Sucursal1",
+	"direccion": "Rio Grande",
+	"horarioDeAtencion": "9 a 18 hs"
+}

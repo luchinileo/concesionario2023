@@ -1,0 +1,1 @@
+export type TipoDeBusqueda = 'marca' | 'categoria' | 'modelo' | 'nivelDeDesgaste' | 'marca-nivelDeDesgaste' | 'categoria-nivelDeDesgaste';
